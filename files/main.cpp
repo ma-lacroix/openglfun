@@ -1,7 +1,8 @@
 #include <cmath>
-#include<iostream>
-#include<glad/glad.h>
-#include<GLFW/glfw3.h>
+#include <iostream>
+// #include <GLEW/glew.h>
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
 
 const int WIN_LEN = 800;
 const int WIN_HEI = 800;
