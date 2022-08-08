@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-.DS_Store
+*.DS_Store
 
 # Compiled Object files
 *.slo
@@ -30,8 +30,8 @@
 # Executables
 *.exe
 *.out
-*.app
-*.main
+*app
+*main
 
 # Project folders
 .vscode/
