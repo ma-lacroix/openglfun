@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.main
+
+# Project folders
+.vscode/
+app.dSYM/
+main.dSYM/
